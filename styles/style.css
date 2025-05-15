@@ -177,7 +177,6 @@ html {
   background-position: center;
   background-repeat: no-repeat;
   color: rgb(255, 255, 255);
-
 }
 
 .card__title {
@@ -271,7 +270,6 @@ html {
   display: flex;
   justify-self: start;
   padding-left: 50px;
-
 }
 
 .footer__menu-list {
