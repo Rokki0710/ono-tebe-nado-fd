@@ -10,19 +10,19 @@ html {
 }
 
 .header__menu {
-  width: 100%; 
+  width: 100%;
 }
 
 .header__links-list {
   display: flex;
   list-style: circle;
-  gap: 32px; 
+  gap: 32px;
   font-size: 18px;
   font-weight: normal;
 }
 
 .header__logo-image {
-  width: 148px; 
+  width: 148px;
   height: 105px;
 }
 
@@ -33,7 +33,6 @@ html {
 }
 
 .header__address { 
-  
   justify-self: end;
   max-width: 240px;
   font-size: 18px;
@@ -111,7 +110,7 @@ html {
   color: rgb(255, 255, 255);
   position: absolute;
   bottom: 50px; 
-  left: 50px; 
+  left: 50px;
   right: 50px;
 }
 
