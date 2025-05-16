@@ -42,7 +42,6 @@ html {
   font-style: normal;
   line-height: 24.3px;
   font-size: 18px;
-  line-height: 24.3px;
 }
 
 .header__address {
@@ -108,7 +107,7 @@ html {
   letter-spacing: 0;
 }
 
-.cover_description {
+.cover__description {
   z-index: 1;
   display: flex;
   justify-content: space-between;
