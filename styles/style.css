@@ -39,16 +39,15 @@ html {
 }
 
 .address {
-  max-width: 265px;
   font-style: normal;
+  line-height: 24.3px;
+  font-size: 18px;
   line-height: 24.3px;
 }
 
 .header__address {
   justify-self: end;
   max-width: 240px;
-  font-size: 18px;
-  font-style: normal;
 }
 
 .overlay {
@@ -268,6 +267,11 @@ html {
   padding: 0px 50px;
   height: 180px;
   font-size: 18px;
+}
+
+.footer__address {
+  justify-self: start;
+  max-width: 265px;
 }
 
 .footer__menu-list {
