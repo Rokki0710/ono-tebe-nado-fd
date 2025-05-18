@@ -21,12 +21,12 @@ html {
   font-weight: normal;
 }
 
-.header__links-list-item {
-  list-style: circle;
+.header__link_active {
+  text-decoration: none;
 }
 
-.header__links-list-item:first-child .header__link {
-  text-decoration: none;
+.header__links-list-item {
+  list-style: circle;
 }
 
 .header__links-list-item-unmarker {
@@ -165,6 +165,7 @@ html {
 
 .card-link {
   height: 100%;
+  text-decoration: none;
 }
 
 .card {
@@ -192,7 +193,6 @@ html {
 }
 
 .card__text {
-  /* padding: 30px 40px 48px 40px; */
   z-index: 1;
   font-weight: 400;
   line-height: 120%;
